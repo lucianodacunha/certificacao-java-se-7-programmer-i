@@ -1,3 +1,6 @@
-# certificacao-java-se-7-programmer-i
+# Certificação Java SE 7 Programmer I
 
-## Understangin Java technology and environment
+- Escopo de variáveis
+- Estrutura de uma classe Java
+- Aplicações com o método main
+- Uso do import
